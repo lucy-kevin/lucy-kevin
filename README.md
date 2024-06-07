@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software engineer | UI/UX Desiner
 ---------------------------------
 
-An IT student, passionate about coding in Flutter and python Interested in UI/UX
+An IT student, passionate about coding in Flutter, python Interested in UI/UX
 
 * 🌍  I'm based in Uganda
 * ✉️  You can contact me at [kayikayikevin7@gmail.com](mailto:kayikayikevin7@gmail.com)
