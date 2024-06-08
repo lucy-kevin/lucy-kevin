@@ -40,4 +40,5 @@ src="https://img.shields.io/twitter/follow/ZiyadaKA_?logo=twitter&style=for-the-
 
 <a href="https://github.com/lucy-kevin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucy-kevin&langs_count=10&title_color=f97316&text_color=84cc16&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luvk-kevin.readme)
+
