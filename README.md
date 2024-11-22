@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Ziyada Aseru
 ==========================================================================================================================================
 
-Software engineer | UI/UX Desiner
+Software engineer | UI/UX Designer
 ---------------------------------
 
 An IT student, passionate about coding in Flutter, python Interested in UI/UX
