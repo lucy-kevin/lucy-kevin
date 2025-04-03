@@ -7,7 +7,7 @@ Software engineer | UI/UX Designer
 Passionate about coding in Flutter, python Interested in UI/UX
 
 * 🌍  I'm based in Uganda
-* ✉️  You can contact me at [kayikayikevin7@gmail.com](mailto:kevinziyadaaseru@gmail.com)
+* ✉️  You can contact me at [kevinziyadaaseru@gmail.com](mailto:kevinziyadaaseru@gmail.com)
 * 🧠  I'm a UI/UX Designer
 * 🤝  I'm open to collaborating on Flutter, markdowns and python projects
 
