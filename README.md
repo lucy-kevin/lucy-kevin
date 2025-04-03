@@ -8,7 +8,7 @@ Passionate about coding in Flutter, python Interested in UI/UX
 
 * 🌍  I'm based in Uganda
 * ✉️  You can contact me at [kevinziyadaaseru@gmail.com](mailto:kevinziyadaaseru@gmail.com)
-* 🧠  I'm a UI/UX Designer
+* 🧠  I'm a Mobile Developer(Flutter) and a UI/UX Designer
 * 🤝  I'm open to collaborating on Flutter, markdowns and python projects
 
 <a href="https://www.github.com/lucy-kevin" target="_blank" rel="noreferrer"><img
