@@ -36,7 +36,7 @@ I'm a passionate developer from Uganda, building real-world tech solutions with 
 ### 🔊 Luganda Speech-to-Text
 > A speech recognition app that transcribes spoken Luganda to text using AI. Designed to support the deaf community and promote African languages.  
 **Tech Stack:** Flutter, Firebase, Flask, wav2vec2-luganda  
-[GitHub Repo](#)
+[GitHub Repo](https://github.com/lucy-kevin/Luganda-Speech-to-Text)
 
 ---
 
